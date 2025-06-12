@@ -2,4 +2,4 @@ test.py
 calc_ev.py
 __pycache__/
 temp/
-.env
+*.env
