@@ -1,2 +1,2 @@
 #!/bin/bash
-pdoc ./LGW/*.py -o ./docs
+pdoc --docformat google ./LGW/*.py -o ./docs
