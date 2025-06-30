@@ -3,3 +3,5 @@ calc_ev.py
 __pycache__/
 temp/
 *.env
+credentials.json
+google-ads.yaml
