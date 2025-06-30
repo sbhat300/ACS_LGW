@@ -5,3 +5,4 @@ temp/
 *.env
 credentials.json
 google-ads.yaml
+.DS_Store
